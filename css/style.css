@@ -1,0 +1,37 @@
+.mother{
+    display: flex;
+    justify-content: flex-end;
+}
+
+
+
+
+
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: purple;  
+    color: wheat;   
+    margin: 2px;
+    
+}
+
+
+
+
+
+
+
+.box-left{   
+    position: relative;
+    align-self: flex-start;
+    
+}
+
+
+.box-top{   
+    position: absolute;
+    top: 0px;
+    right: 0;
+    
+}
