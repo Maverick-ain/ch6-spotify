@@ -1,37 +1,19 @@
-.mother{
-    display: flex;
-    justify-content: flex-end;
+body{
+    margin: 0px;
 }
 
 
-
-
-
-.box{
-    width: 100px;
-    height: 100px;
-    background-color: purple;  
-    color: wheat;   
-    margin: 2px;
-    
+.nav{
+    height: 80px;
+    background-color: black;
 }
 
-
-
-
-
-
-
-.box-left{   
-    position: relative;
-    align-self: flex-start;
-    
+.main{
+    height: 970px;
+    background-color: rgb(41, 65, 171);    
 }
 
-
-.box-top{   
-    position: absolute;
-    top: 0px;
-    right: 0;
-    
+.footer{
+    height: 530px;
+    background-color: black;
 }
