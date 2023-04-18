@@ -18,7 +18,7 @@ body {
     justify-content: space-around;
   }
   .nav-item {
-    padding: 28px 17px;
+    padding: 0px 17px;
     font-weight: 700;
   }
   main {
